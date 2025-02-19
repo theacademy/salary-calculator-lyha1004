@@ -61,6 +61,7 @@ public class EmployeeSalaryCalculator
 					//YOUR CODE STARTS HERE
 					basicPay = hourlyRate * hoursWorked;
 					grossSalary = basicPay;
+					
 					//YOUR CODE ENDS HERE
 				}
 				else
